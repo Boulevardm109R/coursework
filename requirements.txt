@@ -1,0 +1,4 @@
+необходимые для работы модули:
+requests
+tqdm
+pydrive
